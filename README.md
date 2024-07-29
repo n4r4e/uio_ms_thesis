@@ -1,6 +1,10 @@
 # Investigating linguistic bias in large language models: A case study of Korean text generation
 
-This repository contains the code used in the research for my UiO Master's thesis "Investigating linguistic bias in large language models: A case study of Korean text generation".
+This repository contains the full text of my UiO Master's thesis "Investigating linguistic bias in large language models: A case study of Korean text generation" and the code used in the research.
+
+## Thesis
+
+The full text of the thesis is available in this repository as a PDF file. This version has been updated from the one uploaded to the UiO DUO Research Archive, with corrections of typos, cross-references, and other minor improvements.
 
 ## Code Structure
 
