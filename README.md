@@ -4,7 +4,7 @@ This repository contains the full text of my UiO Master's thesis "Investigating 
 
 ## Thesis
 
-The full text of the thesis is available in this repository as a PDF file. This version has been updated from the one uploaded to the UiO DUO Research Archive, with corrections of typos, cross-references, and other minor improvements.
+The full text of the thesis is available in this repository as a PDF file. This version has been updated from [the one submitted to the UiO DUO Research Archive](https://www.duo.uio.no/handle/10852/112347), incorporating errata and minor textual improvements.
 
 ## Code Structure
 
